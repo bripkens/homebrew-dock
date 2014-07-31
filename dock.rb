@@ -2,8 +2,8 @@ require 'formula'
 
 class Dock < Formula
   homepage 'https://github.com/bripkens/dock'
-  url 'https://github.com/bripkens/dock/archive/v0.5.0.tar.gz'
-  sha1 '638ece7e5ae623cd5524586038e34f466b736bac'
+  url 'https://github.com/bripkens/dock/archive/v0.6.0.tar.gz'
+  sha1 'f754fc1eafb7e6323d431a129b2233fa3178695b'
 
   def install
     bin.install "dock"
